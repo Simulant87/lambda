@@ -1,0 +1,1 @@
+This is a minimal example for AWS Lambda returning the input as output written in Kotlin.
